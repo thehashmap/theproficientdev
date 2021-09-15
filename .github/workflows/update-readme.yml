@@ -12,6 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: nikhilgithubofficial/nikhilgithubofficial@master
+      - uses: nikhilgithubofficial/nikhilgithubofficial@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
