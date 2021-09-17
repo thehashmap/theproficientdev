@@ -21,10 +21,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilgithubofficial&layout=compact&theme=gotham)](https://github.com/nikhilgithubofficial/github-readme-stats) -->
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -49,7 +45,7 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilgithubofficial&theme=react" alt="nikhilgithubofficial" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilgithubofficial&show_icons=true&locale=en&layout=compact&theme=react" alt="nikhilgithubofficial" /></p>
+
 
 
 
