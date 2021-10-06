@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Competitive Programming, Data structures & Algorithms, Machine Learning, Operating Systems, Database Management Systems**
 
-- 📫 How to reach me **nikhil.dev.128@gmail.com**
+- 📫 How to reach me **theproficientdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theproficientdev&show_icons=true&locale=en&theme=gotham" alt="theproficientdev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theproficientdev&theme=gotham" alt="theproficientdev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak.herokuapp.com/?user=theproficientdev&theme=gotham" alt="theproficientdev" /></p>
 
 
 
