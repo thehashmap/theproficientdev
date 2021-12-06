@@ -19,10 +19,8 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <a href="https://app.daily.dev/proficientdev">
-  <img src="https://api.daily.dev/devcards/e6b08a4ecd0d48228ceec029b758b1d1.png?r=7ri" width="256" align="right" alt="Nikhil Kumar's Dev Card"/>
+  <img src="https://github.com/theproficientdev/theproficientdev/blob/main/devcard.svg" width="256" align="right" alt="Nikhil Kumar's Dev Card"/>
 </a>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theproficientdev" alt="theproficientdev" /></a> </p>
 
 - 🌱 I’m currently learning **from The Odin Project**
 
@@ -44,6 +42,8 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theproficientdev&show_icons=true&locale=en&theme=gotham" alt="theproficientdev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theproficientdev&theme=gotham" alt="theproficientdev" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theproficientdev" alt="theproficientdev" /></a> </p>
 
 
 
