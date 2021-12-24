@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Nikhil Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
 <a href="https://app.daily.dev/proficientdev">
   <img src="https://github.com/theproficientdev/theproficientdev/blob/main/devcard.svg" width="256" align="right" alt="Nikhil Kumar's Dev Card"/>
 </a>
 
-- 🌱 I’m currently learning **from The Odin Project**
+- 🌱 I’m currently learning **full-stack development from The Odin Project**
 
 - 💬 Ask me about **Competitive Programming, Data structures & Algorithms, Machine Learning, Operating Systems, Database Management Systems**
 
