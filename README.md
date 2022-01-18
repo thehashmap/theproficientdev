@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Competitive Programming, Data structures & Algorithms, Machine Learning, Operating Systems, Database Management Systems**
 
-- 📫 How to reach me **theproficientdev@gmail.com**
+- 📫 How to reach me **nikhilkumar9320@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
