@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking for internships related to Software Development and Web Development.
 
-- 🔭 I have experience working as a Software Developer at Ethan AI.
+- 🔭 I have experience working as a **Software Developer** at **Ethan AI**.
 
 - 🌱 I’m currently learning **Backend Development**
 
