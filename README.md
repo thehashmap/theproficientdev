@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m c  urrently working on ...
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -18,13 +18,17 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Nikhil Kumar</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<a href="https://app.daily.dev/proficientdev">
+<!-- <a href="https://app.daily.dev/proficientdev">
   <img src="https://github.com/theproficientdev/theproficientdev/blob/main/devcard.svg" width="256" align="right" alt="Nikhil Kumar's Dev Card"/>
-</a>
+</a> -->
 
-- 🌱 I’m currently learning **full-stack development from The Odin Project**
+- 👯 I’m looking for internships related to Software Development and Web Development.
 
-- 💬 Ask me about **Competitive Programming, Data structures & Algorithms, Machine Learning, Operating Systems, Database Management Systems**
+- 🔭 I have experience working as a Software Developer at Ethan AI.
+
+- 🌱 I’m currently learning **Backend Development**
+
+- 💬 Ask me about **Competitive Programming, Data structures & Algorithms, Web Development, Machine Learning, Operating Systems**
 
 - 📫 How to reach me **nikhilkumar9320@gmail.com**
 
