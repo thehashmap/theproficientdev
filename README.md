@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking for internships related to Software Development and Web Development.
 
-- 🔭 I have experience working as a **Software Developer** at **Ethan AI**.
+- 🔭 I have experience working as a **Software Developer** at **Ethan AI and Blexings**.
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently contributing at **DoDao**
 
 - 💬 Ask me about **Competitive Programming, Data structures & Algorithms, Web Development, Machine Learning, Operating Systems**
 
