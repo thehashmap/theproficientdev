@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Hi 👋, I'm Nikhil Kumar</h1>
-<h3>Full-Stack Blockchain Developer from India</h3>
+<h3>Full-Stack Web3 Developer from India</h3>
 
 🔭 I’m currently working at [DoDAO](https://github.com/DoDAO-io)<br>
 
