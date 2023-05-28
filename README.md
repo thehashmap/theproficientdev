@@ -1,13 +1,13 @@
 <div align="center">
 
 <h1>Hi 👋, I'm Nikhil Kumar</h1>
-<h3>Full-Stack Web3 Developer from India</h3>
+<!-- <h3>Full-Stack Web3 Developer from India</h3> -->
 
-🔭 I’m currently working at [DoDAO](https://github.com/DoDAO-io)<br>
+🔭 I’m currently working at [Standard Chartered]<br>
 
-🌱 I’m currently learning **Golang**<br>
+<!-- 🌱 I’m currently learning **Golang**<br>
 
-👯 I’m looking to collaborate on **Web3 projects**<br>
+👯 I’m looking to collaborate on **Web3 projects**<br> -->
 
 📫 How to reach me **nikhilkumar9320@gmail.com**<br>
 
